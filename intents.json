@@ -1,0 +1,275 @@
+{
+    "intents": [{
+            "tags": "p",
+            "patterns": [
+                "make a paragraph",
+                "make p",
+                "p",
+                "pargraph"
+            ]
+        },
+        {
+            "tags": "header",
+            "patterns": [
+                "make a header",
+                "h1",
+                "heading"
+            ]
+        },
+        {
+            "tags": "sub_header",
+            "patterns": [
+                "make a sub header",
+                "h3"
+            ]
+        },
+        {
+            "tags": "anchor",
+            "patterns": [
+                "make anchor",
+                "put link",
+                "a",
+                "a tag",
+                "anchor tag"
+            ]
+        },
+        {
+            "tags": "img",
+            "patterns": [
+                "put image",
+                "image",
+                "img",
+                "image tag"
+            ]
+        },
+        {
+            "tags": "video",
+            "patterns": [
+                "put video",
+                "video",
+                "video tag"
+            ]
+        },
+        {
+            "tags": "table",
+            "patterns": [
+                "make table",
+                "table",
+                "row",
+                "column",
+                "table tag"
+            ]
+        },
+        {
+            "tags": "table_row",
+            "patterns": [
+                "insert row",
+                "tr",
+                "tr tag",
+                "insert table row"
+            ]
+        },
+        {
+            "tags": "table_data",
+            "patterns": [
+                "put data",
+                "td",
+                "td tag"
+            ]
+        },
+        {
+            "tags": "division",
+            "patterns": [
+                "make division",
+                "create a div",
+                "div",
+                "division",
+                "division tag",
+                "div tag"
+            ]
+        },
+        {
+            "tags": "li",
+            "patterns": [
+                "make a list",
+                "list",
+                "list tag",
+                "li tag"
+            ]
+        },
+        {
+            "tags": "ul",
+            "patterns": [
+                "make a unordered list",
+                "unordered list",
+                "unordered list tag",
+                "ul tag"
+            ]
+        },
+        {
+            "tags": "ol",
+            "patterns": [
+                "make a ordered list",
+                "ordered list",
+                "ordered list tag",
+                "ol tag"
+            ]
+        },
+        {
+            "tags": "address",
+            "patterns": [
+                "make a address",
+                "address",
+                "address tag"
+            ]
+        },
+        {
+            "tags": "button",
+            "patterns": [
+                "make a button",
+                "button",
+                "button tag"
+            ]
+        },
+        {
+            "tags": "option",
+            "patterns": [
+                "make a option",
+                "option",
+                "option tag"
+            ]
+        },
+        {
+            "tags": "select",
+            "patterns": [
+                "make a select",
+                "select",
+                "select tag"
+            ]
+        },
+        {
+            "tags": "nav",
+            "patterns": [
+                "make a navigation",
+                "navigation",
+                "nav tag"
+            ]
+        },
+        {
+            "tags": "caption",
+            "patterns": [
+                "make a caption",
+                "caption",
+                "caption tag"
+            ]
+        },
+        {
+            "tags": "label",
+            "patterns": [
+                "make a label",
+                "label",
+                "label to input tag is",
+                "label tag"
+            ]
+        },
+        {
+            "tags": "b",
+            "patterns": [
+                "bold text ",
+                "make a bold sentence",
+                "make a bold word",
+                "bold tag"
+            ]
+        },
+        {
+            "tags": "strong",
+            "patterns": [
+                "strong text ",
+                "make a strong sentence",
+                "make a strong word",
+                "strong tag"
+            ]
+        },
+        {
+            "tags": "i",
+            "patterns": [
+                "italic text ",
+                "make a italic sentence",
+                "make a italic word",
+                "italic tag"
+            ]
+        },
+        {
+            "tags": "dialog",
+            "patterns": [
+                "make a dialog",
+                "create a dialog box",
+                "dialog",
+                "dialog tag"
+            ]
+        },
+        {
+            "tags": "textarea",
+            "patterns": [
+                "make a textarea",
+                "create a textarea box",
+                "text area",
+                "textarea",
+                "textarea tag"
+            ]
+        },
+        {
+            "tags": "fieldset",
+            "patterns": [
+                "make a fieldset",
+                "create a fieldset",
+                "fieldset",
+                "fieldset tag"
+            ]
+        },
+        {
+            "tags": "form",
+            "patterns": [
+                "make a form",
+                "make form",
+                "create a form",
+                "form",
+                "form tag"
+            ]
+        },
+        {
+            "tags": "input",
+            "patterns": [
+                "input a field",
+                "input ",
+                "input tag"
+            ]
+        },
+        {
+            "tags": "br",
+            "patterns": [
+                "make a break",
+                "break line",
+                "break",
+                "break tag"
+            ]
+        },
+        {
+            "tags": "hr",
+            "patterns": [
+                "make a horizontal line",
+                "horizontal line",
+                "hr",
+                "horizontal line tag"
+            ]
+        },
+        {
+            "tags": "footer",
+            "patterns": [
+                "make a footer",
+                "footer",
+                "footer tag"
+            ]
+        }
+    ]
+}

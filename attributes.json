@@ -1,0 +1,69 @@
+{
+    "attributes": [
+        {
+            "attr": "id",
+            "patterns": [
+                "ID",
+                "ID of the paragraph is ",
+                "ID of tag",
+                "tag id",
+                "give id as "
+            ]
+        },
+        {
+            "attr": "class",
+            "patterns": [
+                "class",
+                "give class name as ",
+                "class name of the tag",
+                "tag class",
+                "class of paragraph/header/Img/footer,"
+            ]
+        },
+        {
+            "attr": "style",
+            "patterns": [
+                "style",
+                "create style "
+            ]
+        },
+        {
+            "attr": "href",
+            "patterns": [
+                "href",
+                "href of anchor tag"
+            ]
+        },
+        {
+            "attr": "action",
+            "patterns": [
+                "action",
+                "insert action"
+            ]
+        },
+        {
+            "attr": "src",
+            "patterns": [
+                "src",
+                "source of image is ",
+                "source attribute",
+                "source of vedio is",
+                "source of current tag"
+            ]
+        },
+        {
+            "attr": "placeholder",
+            "patterns": [
+                "placeholder",
+                "placeholder of field"
+            ]
+        },
+        {
+            "attr": "type",
+            "patterns": [
+                "type",
+                "input type is "
+            ]
+        }
+    ]
+}
