@@ -428,8 +428,8 @@ def main():
         elif(tag['element'] == 'footer'):
             file_object = open('main_index.html', 'a')
             file_object.write('<footer style="background-color: gray;">')
-            file_object.write('<p>'+tag['innerText']+'</p>'+'<br>')
-            file_object.write('<a href="mailto:ersolution22@gmail.com">'+'ersolution22@gmail.com'+'</a>'+'<br>')
+            file_object.write('<p style="padding-left: 15px;padding-top: 15px;">'+tag['innerText']+'</p>'+'<br>')
+            file_object.write('<a style="padding-left: 15px;" href="mailto:ersolution22@gmail.com">'+'ersolution22@gmail.com'+'</a>'+'<br>')
             file_object.write('</footer>'+'<br>'+'<br>')
             file_object.close()
 
