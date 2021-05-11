@@ -432,10 +432,6 @@ def main():
             file_object.write('<a href="mailto:ersolution22@gmail.com">'+'ersolution22@gmail.com'+'</a>'+'<br>')
             file_object.write('</footer>'+'<br>'+'<br>')
             file_object.close()
-    # print(doc)
-    # now create a html file according to the command tag
-    # createHtml(commandTags)
-    # render the page
 
 
 if __name__ == "__main__":
